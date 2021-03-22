@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Kerem who wanna be a nice coder.
+
+Front-end Engineer(Responsive Web, app),
+Chatbot Engineer
 
 <!--
 **Kerem-Song/Kerem-Song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
