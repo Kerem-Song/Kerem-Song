@@ -1,8 +1,4 @@
-### Hi there 👋
-I'm Kerem who wanna be a nice coder.
 
-Front-end Engineer(Responsive Web, app),
-Chatbot Engineer
 
 <!--
 **Kerem-Song/Kerem-Song** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,6 +17,13 @@ Here are some ideas to get you started:
 -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=electron.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a><br/>
 ![header](https://capsule-render.vercel.app/api?color=gradient&type=rect&text=Kerem%Song)</br>
+
+### Hi there 👋
+I'm Kerem who wanna be a nice coder.
+
+Front-end Engineer(Responsive Web, app),
+Chatbot Engineer
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerem-Song&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
