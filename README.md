@@ -24,8 +24,14 @@ I'm Kerem who wanna be a nice coder.
 Front-end Engineer(Responsive Web, app),
 Chatbot Engineer
 
+<div align=center>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerem-Song&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 <br/>
+
 <div align=center>
   
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black"/>
